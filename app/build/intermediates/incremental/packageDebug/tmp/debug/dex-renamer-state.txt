@@ -1,0 +1,4 @@
+#Thu May 23 22:01:59 EET 2019
+base.0=E\:\\Eatit\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

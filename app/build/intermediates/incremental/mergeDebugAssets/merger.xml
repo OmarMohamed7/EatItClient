@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\Eatit\app\src\main\assets"><file name="databases/EatItDB.db" path="E:\Eatit\app\src\main\assets\databases\EatItDB.db"/><file name="fonts/Insomnia.ttf" path="E:\Eatit\app\src\main\assets\fonts\Insomnia.ttf"/><file name="fonts/NABILA.TTF" path="E:\Eatit\app\src\main\assets\fonts\NABILA.TTF"/></source><source path="E:\Eatit\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\Eatit\app\src\debug\assets"/></dataSet></merger>

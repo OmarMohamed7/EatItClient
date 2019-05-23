@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Thu May 23 22:02:01 EET 2019
+1.base=E\:\\Eatit\\app\\build\\intermediates\\assets\\debug
+2.path=classes.dex
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=E\:\\Eatit\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+3.set=ASSET
+2.set=DEX
+1.baseType=DIRECTORY
+3.path=fonts/NABILA.TTF
+count=4
+1.set=ASSET
+0.path=databases/EatItDB.db
+3.base=E\:\\Eatit\\app\\build\\intermediates\\assets\\debug
+0.set=ASSET
+0.base=E\:\\Eatit\\app\\build\\intermediates\\assets\\debug
+2.baseType=DIRECTORY
+1.path=fonts/Insomnia.ttf

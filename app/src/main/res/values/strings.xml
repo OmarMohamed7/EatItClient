@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Eat it</string>
+    <string name="slogan">No matter where you are : whether you are at home, in the office, in the beach- we will find you and feed you</string>
+    <string name="SignUpTxt">Sign Up</string>
+    <string name="SignInTxt">Sign In</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Omar Mohamed</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_text">Menu : </string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="total">Total : </string>
+    <string name="_1_000">$1.000</string>
+    <string name="place_order">Place Order</string>
+    <string name="DollarSign">$</string>
+    <string name="delete_text">Remove </string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
